@@ -1,5 +1,6 @@
 # RGcode
 《Basin of Attraction Analysis in Generalized Swing Equation via  Dynamical Renormalization Group Approach》
+supplementary中有五阶的详细求解示例
 ## 模块说明
 
 ### num.py - 边界数值解计算
@@ -29,3 +30,4 @@
 1. 编辑 RGVSC.py 中的参数配置
 2. 重启 Kernel
 3. 运行 num.py 或 cct.py
+
